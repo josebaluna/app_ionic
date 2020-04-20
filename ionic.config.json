@@ -1,0 +1,7 @@
+{
+  "name": "muscleforce",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
